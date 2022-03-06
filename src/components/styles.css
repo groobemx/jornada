@@ -1,0 +1,7 @@
+.slider-control-bottomcenter button {
+  background: rgb(206, 47, 47) !important;
+  border-radius: 100%;
+  width: 20px !important;
+  height: 20px !important;
+  margin-left: 20px;
+}
